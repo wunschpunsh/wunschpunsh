@@ -1,3 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7B60E&center=true&multiline=true&width=800&height=200&lines=Hello+World!+I'm+Artem.;Welcome+to+my+GitHub+profile.;+I+am+a+novice+frontend+developer." alt="Typing SVG" /></a>
-[![trophy](https://github-profile-trophy.vercel.app/?username=wunschpunsh)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com?user=wunschpunsh&theme=halloween&hide_border=true&border_radius=0&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=wunschpunsh&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+
