@@ -4,7 +4,7 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?/username=wunschpunsh&show_icons=true&theme=dark&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
+  srcset="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=wunschpunsh&show_icons=true&theme=dark&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
   media="(prefers-color-scheme: dark)"
 />
 <source
