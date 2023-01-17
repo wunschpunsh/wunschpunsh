@@ -1,3 +1,1 @@
-<h1 align="center">Hello World! I'm Artem. Welcome to my GitHub profile.
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I am a novice frontend developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=F7B60E&center=true&multiline=true&width=800&height=200&lines=Hello+World!+I'm+Artem.+;Welcome+to+my+GitHub+profile;+I+am+a+novice+frontend+developer" alt="Typing SVG" /></a>
