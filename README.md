@@ -4,14 +4,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=wunschpunsh&show_icons=true&theme=dark&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
+  srcset="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs?/username=wunschpunsh&show_icons=true&theme=dark&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=wunschpunsh&show_icons=true&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
+  srcset="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=wunschpunsh&show_icons=true&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=wunschpunsh&show_icons=true&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E" />
+<img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=wunschpunsh&show_icons=true&title_color=F7B60E&text_color=F7B60E&border_color=F7B60E" />
 </picture>
 
 
