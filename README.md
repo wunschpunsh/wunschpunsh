@@ -4,14 +4,14 @@
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true&theme=dark&title_color=F7B60E"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true&title_color=F7B60E"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=wunschpunsh&show_icons=true&title_color=F7B60E" />
 </picture>
 
 
