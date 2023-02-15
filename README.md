@@ -25,7 +25,7 @@
 ---
 
 
-## My pet projects
+## My projects
 
  ```sh
  WEBSITES 
