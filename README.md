@@ -28,7 +28,7 @@
 ## My pet projects
 
  ```sh
- WEBSITES :page_with_curl:
+ WEBSITES 
 ```
 | Name :id:  | Link :link: | Description :point_down: | Technology :hammer: | 
 | ------ | ------ | ------ | ------ | 
@@ -41,7 +41,7 @@
 | Pink  | [![pink](https://i.ibb.co/mq2c0Wx/edited-1.png)](https://wunschpunsh.github.io/1279979-pink-25/form.html) | Website about pink app | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
  ```sh
- Web Applications :rocket:
+ Web Applications 
 ```
 | Name :id:  | Link :link: | Description :point_down: | Technology :hammer: | 
 | ------ | ------ | ------ | ------ |
